@@ -8,3 +8,11 @@ In recent years, there has been growing recognition of the importance of mental 
 
 To address these challenges, our project aims to leverage natural language processing (NLP) techniques to analyze social media posts for signs of mental health conditions. By harnessing the vast amount of user-generated content on social media platforms, we seek to provide early warnings and insights into population mental health trends.
 
+Objectives
+
+Utilize NLP techniques to extract and analyze textual data from social media posts.
+Develop machine learning models to identify linguistic markers and patterns associated with various mental health conditions.
+Build a scalable system for real-time monitoring and analysis of social media content.
+Provide actionable insights and early warnings to mental health practitioners, researchers, and policymakers.
+Promote mental health awareness and destigmatization through data-driven approaches.
+
