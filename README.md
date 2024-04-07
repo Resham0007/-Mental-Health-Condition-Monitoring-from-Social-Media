@@ -19,3 +19,4 @@ Conclusion
 
 This project highlights the potential of NLP and machine learning techniques to monitor mental health conditions and detect signs of suicidal ideation from social media data, particularly tweets from Twitter. By analysing online communication patterns, we can identify individuals at risk and facilitate timely interventions and support. Moving forward, further research and collaboration are needed to enhance the accuracy and scalability of mental health condition monitoring systems and strengthen suicide prevention efforts globally.
 
+## Authors/Contributors
