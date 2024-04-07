@@ -40,5 +40,5 @@ This project highlights the potential of NLP and machine learning techniques to 
 ## Authors/Contributors
 
 - [Resham Hansdah](https://github.com/Resham0007)
-- [Sonali Kishan]
-- [Subham Beura]
+- [Sonali Kishan](https://github.com/sonalikishan)
+- [Subham Beura](https://github.com/Subham-Beura/Subham-Beura)
