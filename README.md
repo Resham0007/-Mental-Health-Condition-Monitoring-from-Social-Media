@@ -20,6 +20,21 @@ Provide actionable alerts to mental health professionals, crisis intervention te
 
 ### Dataset Details
 
+The dataset utilized in this analysis originates from Kaggle and comprises posts from the "SuicideWatch" and "depression" subreddits on Reddit, acquired through the Pushshift API.
+Specifically, posts from "SuicideWatch" were collected from December 16, 2008 (the subreddit's inception) to January 2, 2021.
+
+Posts from the "depression" subreddit were gathered from January 1, 2009, to January 2, 2021.
+
+Categorized labeling assigns posts from "SuicideWatch" as suicide-related, while those from the "depression" subreddit are marked as pertaining to depression.
+
+Additionally, non-suicidal posts are drawn from the "teenagers" subreddit.
+
+Initially, the dataset featured labels solely for suicide and non-suicide posts.
+
+Subsequent iterations, such as version V13, expanded the labeling scheme to encompass depression and normal conversations among teenagers.
+
+Supplementary documentation, in the form of a notebook, illustrates the methodology for obtaining Reddit posts via the PushShift API.
+
 ## Technologies Used
 
 ## Data Preprocessing and Augmentation
