@@ -1,6 +1,6 @@
 # -Mental-Health-Condition-Monitoring-from-Social-Media
 
-## Project Title: Mental Health Condition Monitoring from Social Media
+## Project Title: Mental Health Condition Monitoring from Social Media.
 ![image](https://github.com/Resham0007/-Mental-Health-Condition-Monitoring-from-Social-Media/assets/115933421/29f7655f-30e8-4120-8b9b-babe6bce3dc3)
 
 ## Introduction
