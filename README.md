@@ -21,6 +21,7 @@ These objectives outline a comprehensive approach aimed at leveraging machine le
 ## Dataset:
 <img width="727" alt="image" src="https://github.com/user-attachments/assets/19700136-7cde-49aa-8a07-291abee4118d">
 
+Kaggle link - https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch
 
 ### Dataset Details
 
@@ -78,6 +79,7 @@ through backpropagation, minimizing the loss function and enhancing the model's 
 make accurate predictions. Through this training process, CNN-BiLSTM models can achieve
 state-of-the-art performance in various NLP tasks, including text classification, sentiment
 analysis, and language translation.
+
 <img width="564" alt="image" src="https://github.com/user-attachments/assets/d47a1d04-cd68-4499-bcc6-a511607f7a93">
 
 2) Training with K-fold cross validation
