@@ -64,7 +64,7 @@ at-risk individuals
 ## Classification Results
 <img width="538" alt="image" src="https://github.com/user-attachments/assets/ba8577ec-e615-4e3a-91bb-bea8a23be594">
 
-#Training without cross validation
+1. Training without cross validation
 Training with Bidirectional Long Short-Term Memory (CNN-BiLSTM) represents a powerful
 approach in natural language processing (NLP) tasks, particularly for tasks involving sequential
 data like text. This hybrid architecture combines the strengths of Convolutional Neural Networks
