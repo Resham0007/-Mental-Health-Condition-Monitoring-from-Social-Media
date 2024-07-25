@@ -39,11 +39,6 @@ Subsequent iterations, such as version V13, expanded the labeling scheme to enco
 
 Supplementary documentation, in the form of a notebook, illustrates the methodology for obtaining Reddit posts via the PushShift API.
 
-## Technologies Used
-
-## Data Preprocessing and Augmentation
-
-
 ## AI Models Used
 Model Description
 Summary:Long short-term memory (LSTM) is a type of recurrent neural network (RNN)
@@ -103,8 +98,6 @@ performance and generalization across the entire dataset while mitigating overfi
 <img width="739" alt="image" src="https://github.com/user-attachments/assets/d7ad8555-6545-4b41-990d-c0e568e62c44">
 <img width="655" alt="image" src="https://github.com/user-attachments/assets/cd99d8c4-9ddf-4b94-94ea-12d915107a92">
 
-
-## Overall Accuracy of all Models Comparison Plot
 
 ## Results
 <img width="634" alt="image" src="https://github.com/user-attachments/assets/95495147-9c69-4348-b5ec-4507476e46ae">
