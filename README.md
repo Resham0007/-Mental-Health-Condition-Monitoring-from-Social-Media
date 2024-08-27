@@ -41,6 +41,7 @@ Subsequent iterations, such as version V13, expanded the labeling scheme to enco
 Supplementary documentation, in the form of a notebook, illustrates the methodology for obtaining Reddit posts via the PushShift API.
 
 ## AI Models Used
+
 Model Description
 Summary:Long short-term memory (LSTM) is a type of recurrent neural network (RNN)
 aimed at dealing with the vanishing gradient problem present in traditional RNNs. Its relative
